@@ -1,0 +1,6 @@
+{
+  "name": "Layanan Jasa Jahit",
+  "description": "Landing page professional untuk layanan jahit baju, permak, dan pembuatan busana custom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
