@@ -1,6 +1,5 @@
 import { ArrowRight, Star, HeartHandshake, Scissors } from "lucide-react";
-
-const heroIllustration = "/src/assets/images/tailor_atelier_hero_1780141261358.png";
+import heroIllustration from "../assets/images/tailor_atelier_hero_1780141261358.png";
 
 interface HeroProps {
   onScrollTo: (selector: string) => void;
